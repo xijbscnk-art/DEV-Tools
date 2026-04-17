@@ -30,8 +30,8 @@
 
 1. Клонируй репозиторий:
 
-   git clone https://github.com/=-=
-   cd devtools
+   git clone https://github.com/=-=](https://github.com/xijbscnk-art/DEV-Tools
+   cd DEV
 Установи зависимости:
 
 pip install -r requirements.txt
