@@ -6,6 +6,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
+По возможности просматривайте README в 'code' среде!
+
 ## 📋 Содержание
 
 - [Возможности](#-возможности)
