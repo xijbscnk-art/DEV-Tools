@@ -30,7 +30,7 @@
 
 1. Клонируй репозиторий:
 
-   git clone https://github.com/=-=](https://github.com/xijbscnk-art/DEV-Tools
+   git clone https://github.com/xijbscnk-art/DEV-Tools
    cd DEV
 Установи зависимости:
 
